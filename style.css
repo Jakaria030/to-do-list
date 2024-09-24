@@ -1,0 +1,16 @@
+.container{
+    width: 600px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    padding: 20px;
+
+}
+
+.container input, button {
+    padding: 10px 20px;
+    margin-right: 10px;
+}
+
+.container ul li{
+    margin-bottom: 10px;
+}
